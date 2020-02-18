@@ -8,6 +8,10 @@ Galaxy training material
 
 This repository collects tutorials, slides, and exercises developed and maintained by the Galaxy community.
 
+# Online protocol
+
+https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/metatranscriptomics/tutorial.html
+
 # Usage
 
 The content of the material is developed in Markdown and a templating system ([Jekyll](http://jekyllrb.com/)) is used to format the tutorials and generate a website ([http://training.galaxyproject.org](http://training.galaxyproject.org)).
